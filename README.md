@@ -29,7 +29,7 @@ This is a web application that generates a word search puzzle using characters' 
 
 ## Screenshots
 
-![Word Search Puzzle](screenshots/word_search.png)
+![Captura de tela 2024-05-19 221722](https://github.com/71Kevin/genshin-impact-word-hunt/assets/37316637/22d9350d-170b-440a-9b55-9d4357e43d01)
 
 ## Credits
 
