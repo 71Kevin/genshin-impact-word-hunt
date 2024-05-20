@@ -23,13 +23,13 @@ This is a web application that generates a word search puzzle using characters' 
 2. Open the `index.php` file in a web browser.
 3. The word search puzzle will be generated automatically.
 4. Click on letters in the puzzle to form words.
-5. Use the "Need Help" button if you need assistance finding a word.
+5. Use the "Ask Paimon?" button if you need assistance finding a word.
 6. Continue until all words have been found.
 7. Once all words are found, a message will appear prompting you to start a new game.
 
 ## Screenshots
 
-![Captura de tela 2024-05-19 221722](https://github.com/71Kevin/genshin-impact-word-hunt/assets/37316637/22d9350d-170b-440a-9b55-9d4357e43d01)
+![Captura de tela 2024-05-19 221722](https://github.com/71Kevin/genshin-impact-word-hunt/assets/37316637/9a8cd452-4c21-4840-9885-eed66dac442f)
 
 ## Credits
 
