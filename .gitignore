@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore vendor directory
+/vendor/
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore log files
+*.log
+error_log
+
+# Ignore environment configuration files
+.env
+
+# Ignore Composer lock file
+composer.lock
